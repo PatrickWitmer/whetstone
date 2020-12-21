@@ -1,5 +1,6 @@
-# whetstone
-Collection of tools to sharpen my axes.
+# Whetstone
+
+Collection of tools and resources to sharpen my axes.
 
 |>)  
 |    
